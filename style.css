@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+body {
+
+    font-size: 20px;
+    align-content: center;
+    background: radial-gradient(#81ecec, #00cec9);
+    color: white;
+}
+button{
+    background-color: white;
+    border-radius: 5px;
+    border: 2px solid #81ecec;
+    color: #81ecec;
+}
+#test{
+    border: 2px dashed white;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 30px;
+}
+h3{
+    margin: 50px;
+    text-align: center;
+}
